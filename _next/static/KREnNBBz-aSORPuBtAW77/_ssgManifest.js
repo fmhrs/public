@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fexperiment\u002Fshape-calculator\u002F[dimension]\u002F[shape]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
